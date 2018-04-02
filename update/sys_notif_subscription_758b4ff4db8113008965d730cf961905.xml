@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_notif_subscription">
+    <sys_notif_subscription action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <affected_record/>
+        <affected_table/>
+        <condition table="live_message">123TEXTQUERY321=problem,issue<item endquery="false" field="123TEXTQUERY321" goto="false" newquery="false" operator="=" or="false" value="problem,issue"/>
+        </condition>
+        <devices>cb194f82e00332003399186128118fa4</devices>
+        <filter/>
+        <name>New Live Feed Post</name>
+        <notification display_value="Live Message New Posts Subscription">61ca2603c0a80a6d1375097afbdec072</notification>
+        <schedule/>
+        <sys_class_name>sys_notif_subscription</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-22 14:14:19</sys_created_on>
+        <sys_id>758b4ff4db8113008965d730cf961905</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New Live Feed Post</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_notif_subscription_758b4ff4db8113008965d730cf961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-22 14:15:02</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </sys_notif_subscription>
+</record_update>
